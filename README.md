@@ -1,6 +1,6 @@
 # FlaskDemo
 
-This is a operational flask app with full CRUD operation using SQLAlchemy.
+A flask blog with CRUD support using SQLAlchemy.
 
 It is constructed inline with Corey Schafer's Flask course [https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH]
 
